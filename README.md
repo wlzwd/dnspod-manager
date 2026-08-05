@@ -1,6 +1,6 @@
 # DNSPod 域名记录管理
 
-一个基于 Python + Tkinter 的 DNSPod 域名记录管理工具，输入DNSPod的id和token即可管理。
+一个基于 Python + Tkinter 的 DNSPod 图形化域名记录管理工具，输入DNSPod域名id与token即可管理。
 
 ## 功能
 - 增删改查 DNS 记录
